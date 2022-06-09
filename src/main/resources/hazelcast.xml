@@ -1,0 +1,7 @@
+<hazelcast>
+    ...
+    <queue name="queue">
+        <max-size>10</max-size>
+    </queue>
+    ...
+</hazelcast>
